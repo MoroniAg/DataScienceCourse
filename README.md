@@ -1,29 +1,25 @@
-# Inteligence_Artificial_GPT
+# Guia Data Science
 
-Repositorio de apuntes y recursos sobre Inteligencia Artificial, Machine Learning, Deep Learning y Generative AI.
+Repositorio de apuntes, recursos y proyectos sobre Inteligencia Artificial, Machine Learning, Deep Learning y Generative AI.
 
-## 📚 Contenido principal
+## � Estructura principal del repositorio
 
-- [Introducción a la IA](01_Introduccion.md)
-- [Planificación y estructura de proyectos](01_Planing/00_Index.md)
-- [Machine Learning](02_Machine_Learning/01_Introduccion.md)
-	- [Aprendizaje Supervisado](02_Machine_Learning/02_Aprendizaje_Supervisado/02_00_Aprendizaje_Supervisado.md)
-	- [Regresión Lineal](02_Machine_Learning/02_Aprendizaje_Supervisado/02_01_Regresion_Lineal.md)
-	- [Aprendizaje No Supervisado](02_Machine_Learning/03_Aprendizaje_No_Supervisado/)
-	- [Aprendizaje por Refuerzo](02_Machine_Learning/04_Aprendizaje_por_refuerzo/)
-- [Deep Learning](03_Deep_Learning/01_Introduccion.md)
-	- [MLP](03_Deep_Learning/02_Multilayer_Perceptron_MLP.md)
-	- [CNNs](03_Deep_Learning/03_Convolutional_Neural_Networks_CNNs.md)
-	- [RNNs](03_Deep_Learning/04_Recurrent_Neural_Networks_RNNs.md)
-	- [LSTM](03_Deep_Learning/05_Long_Short-Term_Memory_LSTM.md)
-	- [GRU](03_Deep_Learning/06_Gated_Recurrent_Units_GRU.md)
-	- [Autoencoders](03_Deep_Learning/07_Autoencoders.md)
-	- [GANs](03_Deep_Learning/08_Generative_Adversarial_Networks_GANs.md)
-	- [VAE](03_Deep_Learning/09_Variational_Autoencoders_VAE.md)
-	- [Transformers](03_Deep_Learning/10_Transformers.md)
-- [IA Generativa](04_Generative_IA/)
+- `Course/`: Materiales de estudio estructurados.
+	- `01_Introduccion.md`: Introducción general a la IA.
+	- `01_Planing/`: Planificación y estructura de proyectos.
+		- `00_Index.md`, `01_Schedule.md`, `02_Projects_structure.md`
+	- `02_Machine_Learning/`: Apuntes de Machine Learning.
+		- `01_Introduccion.md`: Introducción al ML.
+		- `02_Aprendizaje_Supervisado/`: Aprendizaje supervisado.
+			- `02_00_Aprendizaje_Supervisado.md`, `02_01_Regresion_Lineal.md`
+		- `03_Aprendizaje_No_Supervisado/`: (vacío)
+		- `04_Aprendizaje_por_refuerzo/`: (vacío)
+	- `03_Deep_Learning/`: Apuntes de Deep Learning.
+		- `01_Introduccion.md`, `02_Multilayer_Perceptron_MLP.md`, `03_Convolutional_Neural_Networks_CNNs.md`, `04_Recurrent_Neural_Networks_RNNs.md`, `05_Long_Short-Term_Memory_LSTM.md`, `06_Gated_Recurrent_Units_GRU.md`, `07_Autoencoders.md`, `08_Generative_Adversarial_Networks_GANs.md`, `09_Variational_Autoencoders_VAE.md`, `10_Transformers.md`
+	- `04_Generative_IA/`: (vacío)
+- `Projects/`: Carpeta para proyectos prácticos de IA (estructura personalizada por el usuario).
 
-## 🎯 Estructura
+## 🎯 Estructura de los materiales
 
 Cada sección incluye conceptos, ejemplos y analogías prácticas.
 
