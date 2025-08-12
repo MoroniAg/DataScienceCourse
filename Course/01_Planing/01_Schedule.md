@@ -108,12 +108,6 @@
 * **12 meses** para un perfil sólido de **Data Scientist con enfoque en ML/DL**.
 * Portafolio con **6 proyectos** listos para entrevistas.
 
-
-Perfecto, Moroni.
-Te voy a dejar el **Bimestre 1** con un calendario exacto para tus **1h diaria / 7 días a la semana**.
-El objetivo es que en estos 2 meses ya manejes Python para análisis de datos y tengas tu **primer proyecto listo para portafolio**.
-
----
 ---
 ## 📅 Bimestre 1 – Python + Análisis básico de datos
 
